@@ -1,2 +1,2 @@
-# 30-Days-of-Code-HackerRank
-Participated in 30days of Code on HackerRank
+# 30-A Week of Code
+
